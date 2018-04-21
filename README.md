@@ -3,6 +3,7 @@ Total Hours: 20 (lots of hair was pulled out during vagrant/wp installation)
 
 1) Username Enumeration
 Found in WP 4.2, patched in 4.10
+
 ![Alt Text](W1.gif)
 
 2) XSS: CVE-2016-7168
